@@ -1,12 +1,3 @@
-//
-//  UIView+Size.h
-//  ArabicGold
-//
-//  Created by Liuwx on 2019/10/22.
-//  Copyright © 2019 刘文学. All rights reserved.
-//
-
-
 
 #import <UIKit/UIKit.h>
 
